@@ -1,22 +1,10 @@
 👋 Hey there, I'm Victoria!
 
-I'm an MS Data Science student. I'm currently learning JavaScript and React. I am new to this, but have fallen in love with it, and have hopes to become great.
+I'm an MS Data Science student. I love all things programming and analytics. I enjoy working with JavaScript, Python, and R.
 
-LinkedIn: <a href="http://linkedin.com/in/vgmitchell">linkedin.com/in/vgmitchell</a>
+- 🔭 I’m currently working on strengthening my React skills
+- 🌱 I’m currently learning more about neural networks
+- 📫 How to reach me:
+  LinkedIn: <a href="http://linkedin.com/in/vgmitchell">linkedin.com/in/vgmitchell</a>
 
 Check out my projects below!
-
-<!--
-**your-friendly-neighborhood-programmer/your-friendly-neighborhood-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
