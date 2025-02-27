@@ -7,4 +7,4 @@ I’m a self-employed software engineer who’s as comfortable debugging code as
 - 📫 How to reach me:
   LinkedIn: <a href="http://linkedin.com/in/vgmitchell">linkedin.com/in/vgmitchell</a>
 
-Check out my projects below!
+Check out some of my projects below!
