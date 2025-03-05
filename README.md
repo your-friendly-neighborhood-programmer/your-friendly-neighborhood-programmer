@@ -4,7 +4,3 @@ I’m a self-employed freelance software engineer who’s as comfortable debuggi
 
 - 🔭 I’m currently working on strengthening my React skills
 - 🌱 I’m currently learning more about neural networks
-- 📫 How to reach me:
-  LinkedIn: <a href="http://linkedin.com/in/vgmitchell">linkedin.com/in/vgmitchell</a>
-
-Check out some of my projects below!
